@@ -1,0 +1,14 @@
+dataset/forecast/*
+reports/pdf_reports/*
+reports/excel_exports/*
+database/sales.db
+__pycache__/
+*.pyc
+.venv/
+*.log
+logs/
+models_saved/
+test_generated_report.pdf
+*.pkl
+*.joblib
+.streamlit/secrets.toml

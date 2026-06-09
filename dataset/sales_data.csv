@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product_Name,Category,Region,Quantity,Unit_Price,Sales,Profit,Inventory
+1001,2024-01-01,C001,Rahul Sharma,Laptop,Electronics,South,2,50000,100000,15000,120
+1002,2024-01-02,C002,Priya Reddy,Smartphone,Electronics,North,3,25000,75000,12000,200
+1003,2024-01-03,C003,Arjun Kumar,Tablet,Electronics,East,1,30000,30000,5000,80
+1004,2024-01-04,C004,Sneha Patel,Headphones,Accessories,West,5,2000,10000,2500,500
+1005,2024-01-05,C005,Vikram Singh,Monitor,Office Equipment,South,2,15000,30000,6000,75
+1006,2024-01-06,C006,Ananya Rao,Keyboard,Accessories,North,10,1500,15000,4000,300
+1007,2024-01-07,C007,Rohit Verma,Mouse,Accessories,East,15,800,12000,3500,450
+1008,2024-01-08,C008,Pooja Gupta,Printer,Office Equipment,West,2,12000,24000,5000,60
+1009,2024-01-09,C009,Kiran Reddy,Smart Watch,Wearables,South,4,8000,32000,7000,150
+1010,2024-01-10,C010,Akhil Kumar,Power Bank,Accessories,Central,8,1500,12000,3000,250

@@ -1,0 +1,9 @@
+APP_NAME = "AI Sales Forecasting System"
+
+COMPANY_NAME = "Enterprise Analytics"
+
+DEFAULT_FORECAST_DAYS = 30
+
+LOW_STOCK_THRESHOLD = 50
+
+HIGH_STOCK_THRESHOLD = 500
